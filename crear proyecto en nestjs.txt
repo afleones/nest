@@ -1,0 +1,8 @@
+crear proyecto en nestjs
+
+1. yarn create vite
+2. seleccionamos vanilla
+3. seleccionamos typescript
+4. navegamos a la carpeta del proyecto con cd
+5. corremos yarn…
+6. yarn dev para correr servidor
